@@ -3,7 +3,8 @@
 - **I am interested in Java and Python.**
 
 ### Timeline
----
+***
+- 🦁🖥(2021. 03 ~ 2021. 09) Like lion 9th
 <!--
 **olzlgur/olzlgur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
