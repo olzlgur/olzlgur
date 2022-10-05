@@ -4,6 +4,8 @@
 
 ### Timeline
 ***
+- ⛪️🖥(2022. 05 ~ 2022. 11) GDSC KNU 1th
+- 🖥(2021. 10 ~ 2022. 05) GDSC KNU 1th
 - 🦁🖥(2021. 03 ~ 2021. 09) Like lion 9th
 <!--
 **olzlgur/olzlgur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
