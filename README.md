@@ -1,7 +1,7 @@
 ### Hi I'm JiHyeok 👋  
 - **I hope to be a backend developer.**
 - **I am interested in Java and Python.**
-- **Here is my tech blog** [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@olzlgur)](https://velog.io/@olzlgur)    
+- **Here is my tech blog**    [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@olzlgur)](https://velog.io/@olzlgur)    
 ### Timeline
 - ⛪️🖥 (2022. 05 ~ 2022. 11) SW Maestro 13th
 - 🖥 (2021. 10 ~ 2022. 05) GDSC KNU 1th
