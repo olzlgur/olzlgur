@@ -6,7 +6,7 @@
 - ⛪️🖥 (2022. 05 ~ 2022. 11) SW Maestro 13th
 - 🖥 (2021. 10 ~ 2022. 05) GDSC KNU 1th
 - 🦁🖥 (2021. 03 ~ 2021. 09) Like lion 9th & 10th executive
-<img src="file:///C:/Users/%EC%9D%B4%EC%A7%80%ED%98%81/Desktop/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56656c6f6720426c6f672d44657620426c6f672d3161613465343f7374796c653d666c61742d737175617265.svg" width="500"> 
+[![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=본인주소)]
 <!--
 **olzlgur/olzlgur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
