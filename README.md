@@ -5,7 +5,7 @@
 ### Timeline
 - ⛪️🖥 (2022. 05 ~ 2022. 11) SW Maestro 13th
 - 🖥 (2021. 10 ~ 2022. 05) GDSC KNU 1th
-- 🦁🖥 (2021. 03 ~ 2021. 09) Like lion  9th & 10th executive  
+- 🦁🖥 (2021. 03 ~ 2021. 09) Like lion KNU 9th & 10th executive  
 
 <!--
 **olzlgur/olzlgur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
