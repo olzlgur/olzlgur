@@ -3,7 +3,7 @@
 - **I am interested in Java and Python.**
 -  [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@olzlgur)](https://velog.io/@olzlgur)   **is my tech blog**  &nbsp;&nbsp; 
 ### Timeline
-- ⛪️🖥 (2022. 05 ~ 2022. 11) SW Maestro 13th
+- 🖥 (2022. 05 ~ 2022. 11) SW Maestro 13th
 - 🖥 (2021. 10 ~ 2022. 05) GDSC KNU 1th
 - 🦁🖥 (2021. 03 ~ 2021. 09) Like lion KNU 9th & 10th executive  
 
